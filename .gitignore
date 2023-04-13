@@ -1,2 +1,6 @@
 virtualenv
 env
+.venv
+dist
+census_income.egg-info
+build
